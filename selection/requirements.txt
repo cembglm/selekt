@@ -1,0 +1,7 @@
+streamlit
+pydantic
+typing-extensions
+jsonschema
+python-dateutil
+uuid
+ollama
